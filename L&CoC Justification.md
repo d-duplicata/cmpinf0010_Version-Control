@@ -1,0 +1,2 @@
+I went with the MIT license because I figured MIT would be one of the best at open source material. After reading it, they basically said everything I wanted but in a more formal way which is why I went with them. It is simple but still gets the point across that anyone can use and modify our code freely. 
+I chose the Contributor Covenent code of conduct because I agreed with all the standards that they set. As well as their pledge. It all outlined things that I would have put in my own code of conduct which is why I picked it. 
